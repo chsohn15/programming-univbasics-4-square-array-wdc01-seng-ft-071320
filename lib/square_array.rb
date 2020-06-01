@@ -1,6 +1,4 @@
 def square_array(array)
-  length = array.length
+  count = 0 
   
-  length.times do |index|
-    puts array[index]**2
 end
