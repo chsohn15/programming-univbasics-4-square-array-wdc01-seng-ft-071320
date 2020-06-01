@@ -1,3 +1,4 @@
 def square_array(array)
-  count = 
+  length = array.length
+  
 end
